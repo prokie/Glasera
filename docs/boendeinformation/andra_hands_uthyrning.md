@@ -17,31 +17,30 @@ andrahandsuthyrning ska alltid ske vid byte av andrahandshyresgäst eller vid
 Det ska finnas godtagbara skäl för att få hyra ut i andra hand och det är de
 skälen som är reglerade i hyreslagstiftningen.
 
-De skäl till andrahandsupplåtelse som är godtagbara enligt hyresnämndens
-avgöranden är följande:
+## Godtagbara skäl för andrahandsupplåtelse enligt hyresnämndens avgöranden
 
-1. Ålder eller sjukdom Ett skäl som anses godtagbart är att
+1. **Ålder eller sjukdom** Ett skäl som anses godtagbart är att
    bostadsrättsrättshavaren läggs in på sjukhus eller annat boende på grund av
    ålder eller sjukdom.
 
-2. Tillfälligt arbete eller studier på annan ort Tillfälligt arbete eller
+2. **Tillfälligt arbete eller studier på annan ort** Tillfälligt arbete eller
    studier på annan ort kan utgöra godtagbara skäl. Orten bör ligga längre bort
    än det som kan anses utgöra normalt pendlingsavstånd, som huvudregel mer än
    ca 8—10 mil bort eller en restid som överstiger 1,5 timme enkel väg.
 
-3. Längre utlandsvistelse Även en längre utlandsvistelse kan vara ett
+3. **Längre utlandsvistelse** Även en längre utlandsvistelse kan vara ett
    godtagbart skäl. För att en utlandsvistelse ska anses som längre ska den
    pågå i minst några månader. I allmänhet lämnas tillstånd till
    andrahandsuthyrning ett år i taget. Under vissa förutsättningar, exempelvis
    en utlandstjänstgöring på tre år, kan dock längre tillstånd ges på en gång.
 
-4. Provsamboende Att vilja provsambo i ett parförhållande utgör ofta ett skäl.
+4. **Provsamboende** Att vilja provsambo i ett parförhållande utgör ofta ett skäl.
    Provboende kan ske i den enes bostad eller i en gemensamt anskaffad bostad.
 
-5. Uthyrning till närstående Att bereda barn eller andra närstående bostad kan
+5. **Uthyrning till närstående** Att bereda barn eller andra närstående bostad kan
    vara ett godtagbart skäl.
 
-6. Andra skäl Utöver de situationer som nämns ovan kan det finnas ytterligare
+6. **Andra skäl** Utöver de situationer som nämns ovan kan det finnas ytterligare
    skäl för en bostadsrättshavare att upplåta sin lägenhet i andra hand.
    Exempel på godtagbara skäl är när bostadsrättshavaren anskaffat en
    bostadsrätt för att bosätta sig i efter pensionering, men behöver hyra ut

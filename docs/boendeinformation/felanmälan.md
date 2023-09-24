@@ -45,21 +45,23 @@ Kontakta IKEA för ärenden som rör vitvaror.
 
 - Telefon: 0476-649480
 - Mejladress: <handla.ovrigt.rekl@ikea.com>
-- Märk mejlet med: ”Felanmälan vitvara Ikano Eftermarknad”
+- Märk mejlet med: "Felanmälan vitvara Ikano Eftermarknad"
 
 Vänligen uppge följande information:
 
-- Lägenhetsnummer
-- Typ av produkt
-- Fel på varan
-- Namn på produkten
-- Artikelnummer (gäller ej spishäll)
-- Service/PNC-nummer (gäller ej spishäll)
-- Serienummer (gäller ej spishäll)
-- Efternamn
-- Förnamn
-- Adress
-- Postnummer
-- Ort
-- Telefon
-- E-post.
+```text
+Lägenhetsnummer:
+Typ av produkt:
+Fel på varan:
+Namn på produkten:
+Artikelnummer (gäller ej spishäll):
+Service/PNC-nummer (gäller ej spishäll):
+Serienummer (gäller ej spishäll):
+Efternamn:
+Förnamn:
+Adress:
+Postnummer:
+Ort:
+Telefon:
+E-post:
+```

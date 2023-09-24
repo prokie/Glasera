@@ -6,9 +6,11 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - search.suggest
-
+    - content.code.copy
+markdown_extensions:
+  - attr_list
 plugins:
   - search
-
+  - git-revision-date-localized
 extra:
   generator: false
