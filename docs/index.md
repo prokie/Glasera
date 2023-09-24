@@ -1,4 +1,4 @@
-# Glasera
+# Hem
 
 Brf Glasera är en ung förening vars bostäder stod klara och var redo för
 inflytt Maj 2017. Lägenheterna byggdes av Ikano och är på 34-89 kvadratmeter
