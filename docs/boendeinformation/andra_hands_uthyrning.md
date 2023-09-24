@@ -47,7 +47,7 @@ avgöranden är följande:
    bostadsrätt för att bosätta sig i efter pensionering, men behöver hyra ut
    den under en övergångstid.
 
-## Angående AirBnb och liknande
+## AirBnb
 
 Uthyrning av övernattningsnätter, helger, vecka med Airbnb, Blocket eller
 liknande till utländska gäster innebär en betydande risk om något skulle hända.
@@ -64,7 +64,7 @@ att våra stadgar säger nej och den risken det innebär om en skada skulle
 uppkomma. Att tillägga är att vi vill undvika att det ska upplevas som det
 bedrivs hotelliknande verksamhet i vårt hus.
 
-## Semesterbostadsbyte som Intervac, Home Exchange och liknande
+## Semesterbostadsbyte
 
 Semesterbostadsbyte som Intervac och Home Exchange är i lagens mening en
 andrahandsuthyrning. Att byta bostad med någon annan familj under en
@@ -103,59 +103,3 @@ förslag på en namngiven hyresgäst. Under uthyrningstiden är du som
 bostadsrättsinnehavare ansvarig för lägenheten, att avgifterna betalas, att din
 hyresgäst inte missköter sig etc. Glöm inte att också informera din hyresgäst
 om föreningens regler och trivselregler.
-
-## Fyll i nedanstående blankett och skicka
-
-in Om du vill hyra ut i andra hand så ska du skriva ut blanketten för samtycke
-här nedan, fylla i blanketten i och lägga den i föreningsbrevlådan på
-Blekingegatan 38 alt scanna och skicka till obelisken3@gmail.com. Styrelsen
-behandlar sedan din förfrågan på nästa styrelsemöte. Om du vill veta mer om
-vilka regler som gäller kan du vända dig till hyresnämnden. Det gäller även om
-du fått nej på din ansökan och vill få frågan prövad.
-
-Blir du erbjuden att hyra en lägenhet i vår fastighet så är det ditt eget
-ansvar att ta reda på att den person som du har kontakt med verkligen äger
-bostadsrätten och har styrelsens tillåtelse att hyra ut. Om så inte är fallet
-inte riskerar du att bli av med lägenheten eller att inte ens få tillträde till
-den. Kontrollera gärna genom att skicka ett mail till föreningens ordförande
-via kontaktformuläret ovan.
-
-Risk att förverka sin bostadsrätt Otillåten andrahandsupplåtelse innebär att
-försäkringar inte gäller samt att medlemmen kan riskera att förverka sin
-bostadsrätt. Styrelsen kommer att ta kontakt med den medlem som inte följer
-riktlinjerna givet de risker som finns, både för föreningen och medlemmen eller
-hyresgästen, med otillåten andrahandsupplåtelse.
-
-Inneboende Det krävs inget tillstånd från bostadsrättsföreningen när man har en
-inneboende. Andra regler gäller när det är en fråga om en andrahandsuthyrning.
-För att det ska definieras som en andrahandsuthyrning krävs att du låter någon
-bo i din lägenhet självständigt. Det vill säga när du inte själv bor där. Här
-saknas betydelse om det är någon närstående eller främling som hyr din lägenhet
-och dessutom saknas betydelse om den som hyr betalar dig eller inte. En sådan
-uthyrning kräver föreningens samtycke för att vara giltig. När man har en
-inneboende innebär det att du bor där samtidigt och har kontrollen över
-lägenheten. Alltså att den andra personen inte kan nyttja lägenheten
-självständigt. Detta sker oftast genom att personen hyr en del av din lägenhet,
-som exempelvis ett rum. Ett sådant hyresförhållande kräver inte föreningens
-samtycke. Det enda som begränsar detta är om den inneboende skulle innebära men
-för föreningen. Skulle uthyrandet dock komma till besvär för bostadens värd
-eller grannar kan det komma att behöva upphöra, trots att själva uthyrningen är
-lovlig.
-
-Godkänt försäkringsbrev ska bifogas ansökan Styrelsen ställer krav på att
-bostadsrättshavaren bifogar en kopia av försäkringsbrevet för den som hyr i
-andrahand. För att försäkringarna ska gälla krävs att andrahandsupplåtelsen är
-godkänd av styrelsen samt att ett hyreskontrakt finns. Det skall också framgå
-att den som hyr ut i andra hand har allt ansvar för sin hyresgäst såsom att
-avgift eller hyra betalas och att denne följer ordningsreglerna som är anslagna
-på vår hemsida.
-
-En månads handläggningstid Styrelsens handläggningstid för en
-andrahandsuthyrning är ca 1 månad. Krävs kompletterande uppgifter tar det
-längre tid. Var också medveten om att under sommarsemestern kan det ta längre
-tid.
-
-Avgiften till föreningen för andrahandsutyrning är för bostadsrättshavaren 10
-procent av prisbasbeloppet per år. Om en lägenhet upplåts under del av ett år,
-beräknas den högsta tillåtna avgiften efter det antal kalendermånader som
-lägenheten är upplåten.
