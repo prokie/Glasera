@@ -2,3 +2,5 @@ site_name: Glasera
 theme:
   name: material
   language: sv
+extra:
+  generator: false
