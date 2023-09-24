@@ -1,4 +1,4 @@
-site_name: Glasera
+site_name: BRF Glasera
 theme:
   name: material
   language: sv
@@ -12,5 +12,6 @@ markdown_extensions:
 plugins:
   - search
   - git-revision-date-localized
+  - offline
 extra:
   generator: false
