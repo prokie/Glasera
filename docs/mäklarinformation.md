@@ -1,5 +1,13 @@
 # Mäklarinformation
 
+Här hittar du viktig information relaterad till mäklarverksamheten.
+
+## Ekonomisk plan
+
+I den ekonomiska planen finner du en översikt över verksamhetens ekonomiska aspekter och mål. Du kan ladda ner den här:
+
+- [Ekonomisk plan](filer/ekonomisk_plan.pdf){:download="Ekonomisk plan.pdf"}
+
 ## Årsredovisningar
 
 - [Årsredovisning 2021](filer/arsredovisning_2021.pdf){:download="Årsredovisning 2021.pdf"}
