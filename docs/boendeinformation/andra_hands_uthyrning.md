@@ -1,9 +1,9 @@
 # Andrahandsuthyrning
 
-Lägenheter i Brf Obelisken 3 får hyras ut i andra hand endast efter styrelsens
-samtycke. Styrelsen får inte neka till andrahandsuthyrning om en medlem har
-beaktansvärda skäl att hyra ut. Föreningen tar ut en administrativ avgift vid
-uthyrning i andra hand.
+Lägenheter får hyras ut i andra hand endast efter styrelsens samtycke.
+Styrelsen får inte neka till andrahandsuthyrning om en medlem har beaktansvärda
+skäl att hyra ut. Föreningen tar ut en administrativ avgift vid uthyrning i
+andra hand.
 
 Andrahandsuthyrning måste vara godkänd av styrelsen. Ansökan skall ske
 skriftligt och innehålla skäl för uthyrningen samt den period uthyrningen
