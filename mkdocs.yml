@@ -2,5 +2,13 @@ site_name: Glasera
 theme:
   name: material
   language: sv
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - search.suggest
+
+plugins:
+  - search
+
 extra:
   generator: false

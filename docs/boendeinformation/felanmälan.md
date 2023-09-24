@@ -44,7 +44,7 @@ Om något fel uppstår på din kombimaskin från Cylinda, kontakta Cylinda direk
 Kontakta IKEA för ärenden som rör vitvaror.
 
 - Telefon: 0476-649480
-- Mejladress: handla.ovrigt.rekl@ikea.com
+- Mejladress: <handla.ovrigt.rekl@ikea.com>
 - Märk mejlet med: ”Felanmälan vitvara Ikano Eftermarknad”
 
 Vänligen uppge följande information:
