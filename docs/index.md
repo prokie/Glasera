@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Glasera
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Brf Glasera är en ung förening vars bostäder stod klara och var redo för
+inflytt Maj 2017. Lägenheterna byggdes av Ikano och är på 34-89 kvadratmeter
+fördelade på 1-4 rum och kök. De är ljusa och välplanerade och varje lägenhet
+har minst en balkong eller uteplats. Från och med 2018 består föreningens
+styrelse endast av boende inom föreningen och Ikano har överlämnat ansvaret
+till den befintliga styrelsen.
