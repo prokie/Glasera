@@ -1,3 +1,3 @@
 # BRF Glasera
 
-Hemsidan finns på <https://prokie.github.io/test-mkdocs/>.
+Hemsidan finns på <https://prokie.github.io/glasera/>.
