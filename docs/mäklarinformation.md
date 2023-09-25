@@ -18,6 +18,9 @@ I den ekonomiska planen finner du en översikt över verksamhetens ekonomiska as
 
 I april 2019 gjordes energideklarationen för föreningens två fastigheter.
 
+- [Chamottevägen 15-19](filer/926268-deklaration.pdf){:download="Energideklaration.pdf"}
+- [Chamottevägen 13 och Stig Lindbergs Gata 12](filer/926274-deklaration.pdf){:download="Energideklaration.pdf"}
+
 ## Bostadsrättstillägg
 
 Det är viktigt att våra boende tecknar en hemförsäkring men något extra
