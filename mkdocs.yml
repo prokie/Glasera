@@ -19,5 +19,6 @@ plugins:
   - search
   - git-revision-date-localized
   - offline
+  - awesome-pages
 extra:
   generator: false
