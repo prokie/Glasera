@@ -8,16 +8,16 @@ theme:
     - search.suggest
     - content.code.copy
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 plugins:
   - search
   - git-revision-date-localized
   - offline
 extra:
   generator: false
-
-
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
