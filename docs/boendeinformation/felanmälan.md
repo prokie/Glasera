@@ -8,7 +8,9 @@ Kundtjänst: 0771-722 722 (Öppettider: Vardagar 07.00-21.00)
 
 ## Dygnet fastighetsjour
 
-Vid akut skada eller liknande som rör fastighetens allmänna utrymmen eller din lägenhet under icke kontorstid, ska detta omgående anmälas till fastighetsjouren.
+Vid akut skada eller liknande som rör fastighetens allmänna utrymmen eller din
+lägenhet under icke kontorstid, ska detta omgående anmälas till
+fastighetsjouren.
 
 - Telefon: 08-18 70 00
 - Fastighetsjouren är öppen alla vardagar mellan kl. 21.00 – 07.00 samt helger.
@@ -24,7 +26,7 @@ Vid fel på internet, telefon, TV-mottagning eller om du har andra frågor, kont
 
 - Telefon: 90 222
 
-## Tvättmaskin, torktummlare & kombimaskin
+## Tvättmaskin, torktumlare & kombimaskin
 
 ### Siemens
 
@@ -39,7 +41,7 @@ Om något fel uppstår på din kombimaskin från Cylinda, kontakta Cylinda direk
 - Telefon: 0771-25 25 00
 - Du kan även boka ditt servicebesök på [Cylindas webbplats](http://www.cylinda.se/BokaService).
 
-## Vivaror kök/IKEA
+## Vitvaror kök/IKEA
 
 Kontakta IKEA för ärenden som rör vitvaror.
 

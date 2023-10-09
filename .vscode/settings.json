@@ -1,0 +1,23 @@
+{
+  "cSpell.language": "sv-SE",
+  "cSpell.words": [
+    "Annakarin",
+    "Bopärm",
+    "bopärmen",
+    "Budáné",
+    "Cylinda",
+    "Cylindas",
+    "Elstöd",
+    "Thomsson",
+    "Virág"
+  ],
+  "cSpell.ignorePaths": [
+    "package-lock.json",
+    "node_modules",
+    "vscode-extension",
+    ".git/objects",
+    ".vscode",
+    ".vscode-insiders",
+    "*.yml"
+  ]
+}

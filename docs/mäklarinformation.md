@@ -24,7 +24,7 @@ I april 2019 gjordes energideklarationen för föreningens två fastigheter.
 ## Bostadsrättstillägg
 
 Det är viktigt att våra boende tecknar en hemförsäkring men något extra
-bostadsrättstillägg behöver inte tecknas då bostadsrättförenngen har tecknat
+bostadsrättstillägg behöver inte tecknas då bostadsrättsföreningen har tecknat
 ett gemensamt bostadsrättstillägg för alla lägenheter. Denna informationen samt
 annan matnyttig information om ansvar finns i
 [bopärmen](boendeinformation/boparm.md) under "1. Bo i bostadsrätt".
