@@ -1,8 +1,10 @@
 # Felanmälan
 
-För att rapportera ett fel, behöver du veta vem som ska ta emot din felanmälan beroende på vilken typ av fel som har uppstått:
+För att rapportera ett fel, behöver du veta vem som ska ta emot din felanmälan
+beroende på vilken typ av fel som har uppstått:
 
-- Om du har problem i din lägenhet eller något som rör din förenings fastighet, vänligen kontakta föreningens tekniska förvaltare, [SBC](https://www.sbc.se).
+- Om du har problem i din lägenhet eller något som rör din förenings fastighet,
+  vänligen kontakta föreningens tekniska förvaltare, [SBC](https://www.sbc.se).
 
 Kundtjänst: 0771-722 722 (Öppettider: Vardagar 07.00-21.00)
 
@@ -14,7 +16,8 @@ fastighetsjouren.
 
 - Telefon: 08-18 70 00
 - Fastighetsjouren är öppen alla vardagar mellan kl. 21.00 – 07.00 samt helger.
-- OBS! Om felet beror på handhavandefel kan den boende komma att faktureras för utryckningen.
+- OBS! Om felet beror på handhavandefel kan den boende komma att faktureras för
+  utryckningen.
 
 ## Skadedjur - Anticimex
 
@@ -22,7 +25,8 @@ fastighetsjouren.
 
 ## Bredband-Telefoni-Tv (Tele2)
 
-Vid fel på internet, telefon, TV-mottagning eller om du har andra frågor, kontakta Tele2.
+Vid fel på internet, telefon, TV-mottagning eller om du har andra frågor,
+kontakta Tele2.
 
 - Telefon: 90 222
 
@@ -39,7 +43,8 @@ Om något fel uppstår på din tvättmaskin/torktumlare, kontakta Siemens direkt
 Om något fel uppstår på din kombimaskin från Cylinda, kontakta Cylinda direkt.
 
 - Telefon: 0771-25 25 00
-- Du kan även boka ditt servicebesök på [Cylindas webbplats](http://www.cylinda.se/BokaService).
+- Du kan även boka ditt servicebesök på [Cylindas
+  webbplats](http://www.cylinda.se/BokaService).
 
 ## Vitvaror kök/IKEA
 
